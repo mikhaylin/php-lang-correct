@@ -265,6 +265,7 @@ class LangCorrect
 
 	#несуществующие N-граммы для гласных букв
 	private $vowels3_lc = array(
+		#	https://wordfind.com/contains/eoi/
 		'en' => array(
 			'aea' => 0,
 			'aei' => 1,
